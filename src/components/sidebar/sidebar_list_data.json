@@ -1,0 +1,72 @@
+[
+  {
+    "listId": "1",
+    "listName": "Admin management",
+    "listIconType": "fa-solid",
+    "listIconName": "fa-user-secret",
+    "listIconSize": "fa-2x"
+  },
+  {
+    "listId": "2",
+    "listName": "Company management",
+    "listIconType": "fa-solid",
+    "listIconName": "fa-building",
+    "listIconSize": "fa-2x"
+  },
+  {
+    "listId": "3",
+    "listName": "Employee management",
+    "listIconType": "fa-solid",
+    "listIconName": "fa-wrench",
+    "listIconSize": "fa-2x"
+  },
+  {
+    "listId": "4",
+    "listName": "Warehouse",
+    "listIconType": "fa-solid",
+    "listIconName": "fa-box-archive",
+    "listIconSize": "fa-2x"
+  },
+  {
+    "listId": "5",
+    "listName": "Contracts",
+    "listIconType": "fa-solid",
+    "listIconName": "fa-handshake",
+    "listIconSize": "fa-2x"
+  },
+  {
+    "listId": "6",
+    "listName": "Requests",
+    "listIconType": "fa-solid",
+    "listIconName": "fa-question",
+    "listIconSize": "fa-2x"
+  },
+  {
+    "listId": "7",
+    "listName": "Leave Policy",
+    "listIconType": "fa-solid",
+    "listIconName": "fa-right-from-bracket",
+    "listIconSize": "fa-2x"
+  },
+  {
+    "listId": "8",
+    "listName": "Special Days",
+    "listIconType": "fa-regular",
+    "listIconName": "fa-calendar-check",
+    "listIconSize": "fa-2x"
+  },
+  {
+    "listId": "9",
+    "listName": "Apply for Leave",
+    "listIconType": "fa-solid",
+    "listIconName": "fa-paste",
+    "listIconSize": "fa-2x"
+  },
+  {
+    "listId": "10",
+    "listName": "Project Status",
+    "listIconType": "fa-solid",
+    "listIconName": "fa-list-check",
+    "listIconSize": "fa-2x"
+  }
+]

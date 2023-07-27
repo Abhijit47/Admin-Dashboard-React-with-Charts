@@ -1,0 +1,22 @@
+[
+  {
+    "cardId": "1",
+    "cardHeader": "Income",
+    "cardPrice": "223,600"
+  },
+  {
+    "cardId": "2",
+    "cardHeader": "Sales",
+    "cardPrice": "726,650"
+  },
+  {
+    "cardId": "3",
+    "cardHeader": "Salary",
+    "cardPrice": "72,650"
+  },
+  {
+    "cardId": "4",
+    "cardHeader": "Miscellaneous",
+    "cardPrice": "37,980"
+  }
+]

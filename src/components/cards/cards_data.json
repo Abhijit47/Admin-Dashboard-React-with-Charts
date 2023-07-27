@@ -1,0 +1,34 @@
+[
+  {
+    "card_id": "1",
+    "cardHeading": "Number of subscribers",
+    "cardCount": "578",
+    "cardIconType": "fa-regular",
+    "cardIconName": "fa-user",
+    "cardIconSize": "fa-2x"
+  },
+  {
+    "card_id": "2",
+    "cardHeading": "Times of watching",
+    "cardCount": "2433",
+    "cardIconType": "fa-regular",
+    "cardIconName": "fa-calendar-days",
+    "cardIconSize": "fa-2x"
+  },
+  {
+    "card_id": "3",
+    "cardHeading": "Number of videos",
+    "cardCount": "342",
+    "cardIconType": "fa-solid",
+    "cardIconName": "fa-video",
+    "cardIconSize": "fa-2x"
+  },
+  {
+    "card_id": "4",
+    "cardHeading": "Number of Likes",
+    "cardCount": "1213",
+    "cardIconType": "fa-regular",
+    "cardIconName": "fa-thumbs-up",
+    "cardIconSize": "fa-2x"
+  }
+]
